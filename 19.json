@@ -1,1 +1,67 @@
-
+{
+    "ID": 19,
+    "location": "Yawning Abyss《☠️☠️☠️》(70m+)",
+    "area": "boss",
+    "level": 60,
+    "minLevel": 55,
+    "maxLevel": 45,
+    "creature":[
+      { 
+        "ID": 0,
+        "Name": "Gaismagorm",
+        "Tier": "I",
+        "HP": 2500000,
+        "ATK": 365000,
+        "DEF": 434000,
+        "size": 5875,
+        "category":"Dragon Lord",
+        "SPD": 22000,
+        "ATKbonus": 1.2,
+        "DEFbonus": 1.1,
+        "SPDbonus": 1,
+        "ArmorPiercing": 0.9,
+        "price": 13500000,
+        "exp": 6700000,
+        "description": "",
+        "image": "https://i.imgur.com/ymwuhAL.png"
+      },
+      { 
+        "ID": 1,
+        "Name": "Arch Tempered Gaismagorm",
+        "Tier": "II",
+        "HP": 10210000,
+        "ATK": 555000,
+        "DEF": 340000,
+        "size": 5875,
+        "category":"True Dragon Lord",
+        "SPD": 52000,
+        "ATKbonus": 1.5,
+        "DEFbonus": 1.1,
+        "SPDbonus": 0.9,
+        "ArmorPiercing": 0.75,
+        "price": 343200000,
+        "exp": 21600000,
+        "description": "",
+        "image": "https://i.imgur.com/4jgqbQo.png"
+      },
+      { 
+        "ID": 2,
+        "Name": "Arch Tempered Gaismagorm",
+        "Tier": "III",
+        "HP": 10210000,
+        "ATK": 555000,
+        "DEF": 340000,
+        "size": 5875,
+        "category":"True Dragon Lord",
+        "SPD": 52000,
+        "ATKbonus": 1.5,
+        "DEFbonus": 1.1,
+        "SPDbonus": 0.9,
+        "ArmorPiercing": 0.75,
+        "price": 343200000,
+        "exp": 21600000,
+        "description": "",
+        "image": "https://i.imgur.com/4jgqbQo.png"
+      }
+    ]  
+  }
