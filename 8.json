@@ -1,1 +1,48 @@
-
+{
+    "ID": 8,
+    "location": "Caverns of El Dorado《☠☠️》",
+    "area": "boss",
+    "level": 40,
+    "minLevel": 40,
+    "maxLevel": 45,
+    "creature":[
+      { 
+        "ID": 0,
+        "Name": "Kulve Taroth",
+        "Tier": "I",
+        "HP": 130000,
+        "ATK": 27000,
+        "DEF": 27450,
+        "size": 4573,
+        "category":"Dragon",
+        "SPD": 8100,
+        "ATKbonus": 1,
+        "DEFbonus": 1.5,
+        "SPDbonus": 1,
+        "ArmorPiercing": 1,
+        "price": 1878900,
+        "exp": 939450,
+        "description": "An Elder Dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation. An exhaustive investigation is required in order to break Kulve Taroth's giant gold plated horns. Pursue the monster to learn more about it. Gather tracks and recruit hunters to help you further your investigation",
+        "image": "https://i.imgur.com/CmZuVTs.png"
+      },
+      { 
+        "ID": 0,
+        "Name": "Arch Tempered Kulve Taroth",
+        "Tier": "II",
+        "HP": 250000,
+        "ATK": 39000,
+        "DEF": 45450,
+        "size": 4573,
+        "category":"True Dragon",
+        "SPD": 10100,
+        "ATKbonus": 1,
+        "DEFbonus": 1.5,
+        "SPDbonus": 1,
+        "ArmorPiercing": 1,
+        "price": 6678900,
+        "exp": 3339450,
+        "description": "An Elder Dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation. An exhaustive investigation is required in order to break Kulve Taroth's giant gold plated horns. Pursue the monster to learn more about it. Gather tracks and recruit hunters to help you further your investigation",
+        "image": "https://i.imgur.com/ttzBYoN.png"
+      }
+    ]  
+  }
