@@ -1,1 +1,48 @@
-
+{
+    "ID": 16,
+    "location": "Origin Isle 《☠☠️》(1m+)",
+    "area": "boss",
+    "level": 45,
+    "minLevel": 50,
+    "maxLevel": 70,
+    "creature":[
+      { 
+         "ID": 0,
+         "Name": "Shara Isvalda",
+         "Tier": "I",
+         "HP": 483000,
+         "ATK": 95540,
+         "DEF": 103700,
+         "size": 2910,
+         "category":"True Dragon",
+         "SPD": 10000,
+         "ATKbonus": 1,
+         "DEFbonus": 2,
+         "SPDbonus": 0.8,
+         "ArmorPiercing": 0.5,
+         "price": 34280000,
+         "exp": 14000000,
+         "description": "A mysterious elder dragon able to manipulate the earth itself. Vibrations from its wingtips reshape the earth, denying hunters footing",
+         "image": "https://i.imgur.com/JRinUlf.png"
+      },
+      {
+        "ID": 1,
+        "Name": "Ruiner Nergigante",
+        "Tier": "I",
+        "HP": 60380,
+        "ATK": 14500,
+        "DEF": 7120,
+        "size": 2310,
+        "category":"Elder Dragon",
+        "SPD": 9110,
+        "ATKbonus": 1,
+        "DEFbonus": 1,
+        "SPDbonus": 1,
+        "ArmorPiercing": 0.2,
+        "price": 1023000,
+        "exp": 511500,
+        "description": "Countless battles have only hardened this Nergigante variant. In addition to healing, its spikes grow tougher as it loses health.",
+        "image": "https://i.imgur.com/xTU3DHN.png"
+      }
+    ]  
+  }
