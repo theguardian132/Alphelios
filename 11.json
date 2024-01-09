@@ -1,1 +1,48 @@
-
+{
+    "ID": 11,
+    "location": "Caste Schrade《☠☠️☠️》(80m+)",
+    "area": "boss",
+    "level": 60,
+    "minLevel": 55,
+    "maxLevel": 75,
+    "creature":[
+      { 
+        "ID": 0,
+        "Name": "Fatalis",
+        "Tier": "I",
+        "HP": 1700000,
+        "ATK": 345000,
+        "DEF": 250000,
+        "size": 4217,
+        "category":"Dragon Lord",
+        "SPD": 43000,
+        "ATKbonus": 2,
+        "DEFbonus": 0.5,
+        "SPDbonus": 1,
+        "ArmorPiercing": 0.6,
+        "price": 35670000,
+        "exp": 17000000,
+        "description": "A legendary black dragon known only as Fatalis. Rumored to have destroyed a kingdom in a single night, and has taken its castle for a roost.",
+        "image": "https://i.imgur.com/xlApuxw.png"
+      },
+      { 
+        "ID": 1,
+        "Name": "Arch Tempered Fatalis",
+        "Tier": "III",
+        "HP": 4800000,
+        "ATK": 480000,
+        "DEF": 344000,
+        "size": 4217,
+        "category":"True Dragon Lord",
+        "SPD": 54000,
+        "ATKbonus": 3,
+        "DEFbonus": 0.3,
+        "SPDbonus": 1,
+        "ArmorPiercing": 0.2,
+        "price": 145000000,
+        "exp": 65000000,
+        "description": "An elder dragon that rises from the earth like a volcano. Where it's headed, and why, the Research Commission has yet to figure out",
+        "image": "https://i.imgur.com/BSRMfNg.png"
+      }
+    ]  
+  }
