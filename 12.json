@@ -1,6 +1,7 @@
 {
     "ID": 12,
     "location": "Shrine Ruins",
+    "area": "normal",
     "level": 5,
     "minLevel": 5,
     "maxLevel": 10,
